@@ -10,7 +10,7 @@ class factorial
         int f=1;
         for(int i=x; i>=1; i--)
         {
-            f=i*i;
+            f=f*i;
         }
         System.out.println(f);
     }
