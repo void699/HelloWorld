@@ -13,7 +13,7 @@ class reversePalindrome
              reverse = reverse + n%10;
             n=n/10;
         }
-        if else (reverse == y)
+        if (reverse == y)
         {
             System.out.println("The number is palindrome");
         else{
